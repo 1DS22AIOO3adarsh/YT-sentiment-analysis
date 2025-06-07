@@ -1,15 +1,6 @@
-# requirements.txt
-# Core libraries
-pandas
-scikit-learn
-numpy
-
-# Text processing
-nltk
-
-# MLflow for experiment tracking
-mlflow
-
-# Optional but helpful
-jupyterlab      # If you want to run Jupyter locally
-tqdm            # For progress bars
+fastapi==0.115.12
+uvicorn[standard]==0.34.3
+joblib==1.5.1
+scikit-learn==1.6.1
+numpy==1.26.4
+pydantic==2.11.5
