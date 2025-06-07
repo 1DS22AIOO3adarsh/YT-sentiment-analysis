@@ -1,0 +1,15 @@
+# requirements.txt
+# Core libraries
+pandas
+scikit-learn
+numpy
+
+# Text processing
+nltk
+
+# MLflow for experiment tracking
+mlflow
+
+# Optional but helpful
+jupyterlab      # If you want to run Jupyter locally
+tqdm            # For progress bars
